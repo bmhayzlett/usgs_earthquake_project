@@ -6,7 +6,9 @@ In addition, please run the following commands for the obspy libary that I
 used:
 
 `pip install mock flake8`
+ 
 `pip install ipython\[all\]`
+
 `pip install obspy`
 
 Once complete, you can start the program by running:
